@@ -1,0 +1,41 @@
+.dark-blue {
+    background-color: #5a5afe;
+}
+
+.text-coklat {
+    color: #8b5325;
+}
+
+.nav-item .nav-link:hover {
+    color: black;
+    border-bottom: 1px solid black;
+    transition: 0.5s;
+}
+
+.nav-item .nav-link {
+    border-bottom: 1px solid #5a5afe;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+img {
+    mix-blend-mode: multiply;
+}
+
+.w-10 {
+    width: 100px;
+}
+
+.mb-6 {
+    margin-bottom: -20px;
+}
+
+@media (max-width: 576px) {
+    .h1 {
+        color: whitesmoke;
+        font-size: 20px;
+    }
+}
+    
